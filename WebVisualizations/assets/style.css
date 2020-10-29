@@ -1,0 +1,41 @@
+.navbar-nav {
+    text-align: right;
+    float: right;
+}
+
+.nav-item {
+    text-align: right;
+    float: right;
+}
+
+.latitude {
+    color: white;
+}
+
+.custom-styling {
+    text-align: center;
+    color: rgb(0, 195, 255);
+
+}
+
+.my-styling {
+    color: rgb(0, 195, 255);
+}
+
+.mwriting {
+    text-align: center;
+}
+
+.grey{
+    background-color: rgb(235, 235, 235);
+
+}
+
+.height {
+    max-height: 400em;
+    max-width: 400em;
+}
+
+.mtext {
+    text-decoration: bold;
+}
